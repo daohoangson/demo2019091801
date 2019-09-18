@@ -1,0 +1,17 @@
+name: issue73
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_widget_from_html: 0.2.3
+
+flutter:
+  assets:
+    - logos/
+  uses-material-design: true
